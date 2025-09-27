@@ -32,11 +32,11 @@ The system allows users to mark attendance through a web form, securely stores d
 
 ## 📸 Project Output
 1.**Flask Backend** 
-![API to process submissions](Assets-/Flask Backend.png)
+![API to process submissions](Assets-/FlaskBackend.png)
 3.**Attendance Form** 
-![Web interface to mark attendance](Assets-/Attendance Form.png)
+![Web interface to mark attendance](Assets-/AttendanceForm.png)
 5. **Database Records**
-![Attendance stored in RDS MySQL](Assets-/Database Records.png)
+![Attendance stored in RDS MySQL](Assets-/DatabaseRecords.png)
 
 ---
 
