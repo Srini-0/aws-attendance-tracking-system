@@ -11,7 +11,7 @@ The system allows users to mark attendance through a web form, securely stores d
 - **AWS RDS (MySQL)** – to store attendance records  
 - **Security Groups** – to allow specific traffic (SSH, HTTP, MySQL)  
 - **Key Pair (.pem file)** – for secure SSH access to EC2  
-- **AWS Console** – to manage services  
+- **AWS Console** – to manage cloud resources  
 - **Browser** – to test the application  
 
 ---
@@ -31,12 +31,15 @@ The system allows users to mark attendance through a web form, securely stores d
 ---
 
 ## 📸 Project Output
-1.**Flask Backend** 
-![API to process submissions](Assets-/FlaskBackend.png)
-3.**Attendance Form** 
-![Web interface to mark attendance](Assets-/AttendanceForm.png)
-5. **Database Records**
-![Attendance stored in RDS MySQL](Assets-/DatabaseRecords.png)
+
+### 1. Attendance Form  
+![Attendance Form](Assets-/Attendance%20Form.png)  
+
+### 2. Flask Backend  
+![Flask Backend](Assets-/Flask%20Backend.png)  
+
+### 3. Database Records  
+![Database Records](Assets-/Database%20Records.png)  
 
 ---
 
